@@ -120,3 +120,26 @@
     @apply bg-background text-foreground;
   }
 }
+
+/* PDF Viewer Dark Theme Overrides */
+.rpv-core__viewer {
+  background-color: transparent !important;
+}
+
+.rpv-default-layout__body {
+  background-color: transparent !important;
+}
+
+.rpv-default-layout__toolbar {
+  background-color: rgb(17 24 39) !important;
+  border-bottom: 1px solid rgb(31 41 55) !important;
+}
+
+.rpv-default-layout__sidebar {
+  background-color: rgb(17 24 39) !important;
+  border-right: 1px solid rgb(31 41 55) !important;
+}
+
+.rpv-core__page-layer {
+  background-color: white !important;
+}
