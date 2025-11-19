@@ -1,0 +1,9 @@
+[2025-11-19 16:29:22] Final JSON saved: /Users/taha/Dev/llmproject/backend/project/results/parsed.json
+[2025-11-19 16:29:22] Pipeline completed successfully!
+[2025-11-19 16:36:25] Syed Muhammad Taha CV.pdf: extraction done
+[2025-11-19 16:36:25] Syed Muhammad Taha CV.pdf: cleaning done
+[2025-11-19 16:36:30] Syed Muhammad Taha CV.pdf: parsing done
+[2025-11-19 16:36:30] Syed Muhammad Taha CV.pdf: duration calculation done
+[2025-11-19 16:36:30] Syed Muhammad Taha CV.pdf: added to final JSON
+[2025-11-19 16:36:30] Final JSON saved: /Users/taha/Dev/llmproject/backend/project/results/parsed.json
+[2025-11-19 16:36:30] Pipeline completed successfully!
